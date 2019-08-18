@@ -24,7 +24,7 @@ Then, look up the sorting algorithm that the Java library Arrays.sort() uses and
 
 ## Test Cases
 For each of the sorting algorithms you implemented in `Sort`, write several test cases in `SortTest` to calculate how long each algorithm takes to sort the following lists:
-`
+```
 a list of 1000 identical numbers
 a list of 1000 numbers in random order
 a list of 1000 numbers in increasing order
@@ -35,7 +35,7 @@ a list of 5000 numbers in random order
 a list of 5000 numbers in increasing order
 a list of 5000 numbers in decreasing order
 a list of 4990 numbers in increasing order, followed by 10 numbers in random order
-`
+```
 
 Run each test 10 times and make a table with your average as well as the standard deviation for each algorithm. 
 
