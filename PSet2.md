@@ -19,7 +19,7 @@ Choose one sort from the following to implement. (Note: sorting algorithms shoul
 * bubble sort
 
 
-Then, look up the sorting algorithm that the Java library Arrays.sort() uses and implement your own version. (Implement the traditional algorithm, not the dual-pivot version)
+Then, look up the sorting algorithm that the Java library Arrays.sort() uses and implement your own version. (Implement the traditional algorithm, not the dual-pivot version developed by Yaroslavskiy, Bentley, and Bloch.)
 
 
 ## Test Cases
