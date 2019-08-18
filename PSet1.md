@@ -28,7 +28,7 @@ http://en.wikipedia.org/wiki/Binary_search_algorithm
 You may implement either the recursive or iterative version of binary sort.
 
 ## Test Cases 
-For both search algorithms, in `SearchTest` write test cases to make sure they work for a number that does exist and also for a number that does not exist in the array. When those test cases pass, write test cases to time how long each algorithm takes to find the following number from a sorted list of 500 Million numbers:
+In `SearchTest` write test cases to make sure each search method in `Search` works. Test a value that does exist in the array and a value that does not exist in the array. When those test cases pass, write several test cases to time how long each algorithm takes to find the following number from a sorted list of 500 Million numbers:
 
 ```
 5
