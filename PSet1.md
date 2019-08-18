@@ -54,6 +54,6 @@ Using the table you created, answer the following questions (in complete sentenc
 You will submit printed and online materials. Double-check that you submitted the entire packet:
 1. Print Search.java. Make the title of the page your name.
 2. Print SearchTest.java. Make the title of the page your name.
-3. Print your table of running times for each search.
-4. Print your analysis that answers the qustions.
+3. Print your table of running times.
+4. Print your analysis answers.
 5. Make a .zip of your DataStructuresAndAlgorithms project and submit via the Classes system.
