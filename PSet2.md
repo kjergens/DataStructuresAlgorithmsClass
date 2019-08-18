@@ -47,4 +47,10 @@ Using the table you created, answer the following questions:
 3. Which sort did best on the shorter (ie n=1000) data sets? Did the same one do better on the longer (ie n=5000) data sets?
 4. In general, did the sorts from the first or second list do better? Give a hypothesis as to why the difference in performance exists.
 
-## Submission Packey
+## Submission Packet
+You will submit printed and online materials. Double-check that you submitted the entire packet:
+1. Print Sort.java. Make the title of the page your name.
+2. Print SortTest.java. Make the title of the page your name.
+3. Print your table of running times.
+4. Print your analysis answers.
+5. Make a new .zip of your DataStructuresAndAlgorithms project and submit via the Classes system.
