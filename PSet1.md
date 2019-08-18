@@ -1,10 +1,6 @@
+Data Structures and Algorithms, Computer Science, The Dalton School
+
 # Problem Set 1
-Data Structures and Algorithms 
-
-Computer Science
-
-The Dalton School
-
 
 This problem set covers review of linear and binary searching. See the class webpage for references for elementary searching algorithms.
 
