@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
 ```
 
 ## Implement Linear and Binary Search 
-In lecture, we reviewed two searching algorithms: linear search and binary search. In `Search` write a method for `linearSearch` that takes in an integer array and a value to fine and returns the index of the number or -1 if it doesn't exist using linear search. Do the same for `binarySearch`. The pseudocode for binary search is available from:
+In lecture, we reviewed two searching algorithms: linear search and binary search. In `Search` write a method called `linearSearch` that takes in an integer array and an integer value and uses linear search to return the index of the value or -1 if it doesn't exist. Do the same for `binarySearch`. The pseudocode for binary search is available from:
 
 http://en.wikipedia.org/wiki/Binary_search_algorithm
 
