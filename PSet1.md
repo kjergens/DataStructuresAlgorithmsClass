@@ -17,7 +17,11 @@ import static org.junit.Assert.*;
 ```
 
 ## Implement Linear and Binary Search 
-In lecture, we reviewed two searching algorithms: linear search and binary search. In `Search` write a method called `linearSearch` that takes in an integer array and an integer value and uses linear search to return the index of the value or -1 if it doesn't exist. Do the same for `binarySearch`. The pseudocode for binary search is available from:
+In lecture, we reviewed two searching algorithms: linear search and binary search. 
+
+In `Search` write a method called `linearSearch` that takes in an integer array and an integer value and uses linear search to return the index of the value or -1 if it doesn't exist. 
+
+Do the same for `binarySearch`. The pseudocode for binary search is available from:
 
 http://en.wikipedia.org/wiki/Binary_search_algorithm
 
@@ -37,7 +41,7 @@ For both search algorithms, in `SearchTest` write test cases to make sure they w
 500,000,000 (500 Million)
 ```
 
-Run each test 10 times and make a table with the running time for each run, as well as the average and the standard deviation for each algorithm. Submit your table via Blackboard.
+Run each test 10 times and make a table with the running time for each run, as well as the average and the standard deviation for each algorithm. 
 
 ## Analysis 
 Using the table you created, answer the following questions (in complete sentences):
