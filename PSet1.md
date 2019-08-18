@@ -24,9 +24,9 @@ http://en.wikipedia.org/wiki/Binary_search_algorithm
 You may implement either the recursive or iterative version of binary sort.
 
 ## Test Cases (20 points)
-For both search algorithms, time how long each algorithm takes to find the following number from a sorted list of 500 Million numbers:
+For both search algorithms, use `SearchTest` to make sure it runs for a number that does exist and also for a number that does not exist in the array. When you are sure both methods work, write test cases to time how long each algorithm takes to find the following number from a sorted list of 500 Million numbers:
 
-`
+```
 5
 500
 5,000
@@ -35,7 +35,7 @@ For both search algorithms, time how long each algorithm takes to find the follo
 50,000,000 (50 Million)
 100,000,000 (100 Million)
 500,000,000 (500 Million)
-`
+```
 
 Run each test 10 times and make a table with the running time for each run, as well as the average and the standard deviation for each algorithm. Submit your table via Blackboard.
 
