@@ -11,14 +11,14 @@ This problem set covers review of linear and binary searching. See the class web
 ## Prep
 In the src folder, create a new Java class called `Search`. In the test folder, create a class called `SearchTest` 
 and import all the necessary JUnit libraries:
-`
+```
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;
-`
+```
 
 ## Implement Binary Search (15 points)
 In lecture, we reviewed two searching algorithms: linear search and binary search. Modify the existing code for linear sort (available from Blackboard) to also include binary search. The pseudocode for binary search is available from:
