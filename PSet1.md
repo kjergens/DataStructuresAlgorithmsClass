@@ -1,4 +1,4 @@
-Data Structures and Algorithms, Computer Science, The Dalton School
+The Dalton School, Computer Science,Data Structures and Algorithms
 
 # Problem Set 1
 
@@ -17,14 +17,14 @@ import static org.junit.Assert.*;
 ```
 
 ## Implement Binary Search (15 points)
-In lecture, we reviewed two searching algorithms: linear search and binary search. Modify the existing code for linear sort (available from Blackboard) to also include binary search. The pseudocode for binary search is available from:
+In lecture, we reviewed two searching algorithms: linear search and binary search. In `Search` write a method for `linearSearch` that takes in an integer array and a value to fine and returns the index of the number or -1 if it doesn't exist using linear search. Do the same for `binarySearch`. The pseudocode for binary search is available from:
 
 http://en.wikipedia.org/wiki/Binary_search_algorithm
 
 You may implement either the recursive or iterative version of binary sort.
 
 ## Test Cases (20 points)
-For both search algorithms, use `SearchTest` to make sure it runs for a number that does exist and also for a number that does not exist in the array. When you are sure both methods work, write test cases to time how long each algorithm takes to find the following number from a sorted list of 500 Million numbers:
+For both search algorithms, in `SearchTest` write test cases to make sure they work for a number that does exist and also for a number that does not exist in the array. When those test cases pass, write test cases to time how long each algorithm takes to find the following number from a sorted list of 500 Million numbers:
 
 ```
 5
