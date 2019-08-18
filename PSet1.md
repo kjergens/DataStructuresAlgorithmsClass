@@ -42,9 +42,9 @@ Run each test 10 times and make a table with the running time for each run, as w
 ## Analysis (15 points)
 Using the table you created, answer the following questions (in complete sentences):
 
-### Was linear search ever faster than binary search? When?
-### If both searches report the time as 0 milliseconds for an instance, do they take the same amount of time? Why or why not?
-### Which was the faster search overall?
+#. Was linear search ever faster than binary search? When?
+#. If both searches report the time as 0 milliseconds for an instance, do they take the same amount of time? Why or why not?
+#. Which was the faster search overall?
 
 ## Submit
 You will submit both printed and online materials. Double-check that you submitted the entire packet:
