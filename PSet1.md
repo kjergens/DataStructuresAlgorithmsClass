@@ -2,10 +2,12 @@ The Dalton School, Computer Science,Data Structures and Algorithms
 
 # Problem Set 1
 
-This problem set covers review of linear and binary searching. 
+This problem set covers review of linear and binary searching. Read the instructions carefully and make sure to complete all the parts.
 
 ## Prep
-In the src folder, create a new Java class called `Search`. In the test folder, create a class called `SearchTest` 
+In the `src` folder, create a new Java class called `Search`. 
+
+In the `test` folder, create a class called `SearchTest` 
 and import all the necessary JUnit libraries:
 ```
 import org.junit.Before;
@@ -28,7 +30,9 @@ http://en.wikipedia.org/wiki/Binary_search_algorithm
 You may implement either the recursive or iterative version of binary sort.
 
 ## Test Cases 
-In `SearchTest` write test cases to make sure each search method in `Search` works. Test a value that does exist in the array and a value that does not exist in the array. When those test cases pass, write several test cases to time how long each algorithm takes to find the following number from a sorted list of 500 Million numbers:
+In `SearchTest` write test cases to make sure each search method in `Search` works. For each algorithm, test a value that does exist in the array and a value that does not exist in the array. 
+
+When those test cases pass, write several test cases to time how long each algorithm takes to find the following number from a sorted list of 500 Million numbers:
 
 ```
 5
