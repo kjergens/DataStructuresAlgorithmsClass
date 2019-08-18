@@ -1,13 +1,16 @@
 # Problem Set 1
 Data Structures and Algorithms 
+
 Computer Science
+
 The Dalton School
+
 
 This problem set covers review of linear and binary searching. See the class webpage for references for elementary searching algorithms.
 
 ## Prep
-In the src folder, create a new Java class called "Search". In the test folder, create a class called "SearchTest" 
-and import all the necessary JUnit library:
+In the src folder, create a new Java class called `Search`. In the test folder, create a class called `SearchTest` 
+and import all the necessary JUnit libraries:
 `
 import org.junit.Before;
 import org.junit.BeforeClass;
@@ -27,6 +30,7 @@ You may implement either the recursive or iterative version of binary sort.
 ## Test Cases (20 points)
 For both search algorithms, time how long each algorithm takes to find the following number from a sorted list of 500 Million numbers:
 
+`
 5
 500
 5,000
@@ -35,6 +39,8 @@ For both search algorithms, time how long each algorithm takes to find the follo
 50,000,000 (50 Million)
 100,000,000 (100 Million)
 500,000,000 (500 Million)
+`
+
 Run each test 10 times and make a table with the running time for each run, as well as the average and the standard deviation for each algorithm. Submit your table via Blackboard.
 
 ## Analysis (15 points)
