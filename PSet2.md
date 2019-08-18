@@ -12,18 +12,18 @@ In `test` folder create a new Java class called `SortTest` and import the necess
 ## Implement two  sorting algorithms 
 In class, we discussed sorting algorithms. 
 
-Choose one sort from the following to implement:
+Choose one sort from the following to implement. (Note: sorting algorithms should work for any data type that can be sorted, including ints, doubles, chars and Strings. For this assignment you can only implement versions that sort integers.)
 
 * insertion sort
 * selection sort
 * bubble sort
 
 
-Look up the sorting algorithm that the Java library Arrays.sort() uses. Implement your own version. (You may implement the traditional algorithm, not the dual-pivot version)
+Then, look up the sorting algorithm that the Java library Arrays.sort() uses and implement your own version. (Implement the traditional algorithm, not the dual-pivot version)
 
 
 ## Test Cases
-For each of the sorting algorithms, calculate how long each algorithm takes to sort the following lists:
+For each of the sorting algorithms you implemented in `Sort`, write several test cases in `SortTest` to calculate how long each algorithm takes to sort the following lists:
 `
 a list of 1000 identical numbers
 a list of 1000 numbers in random order
