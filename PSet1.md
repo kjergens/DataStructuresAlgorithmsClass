@@ -42,14 +42,14 @@ Run each test 10 times and make a table with the running time for each run, as w
 ## Analysis (15 points)
 Using the table you created, answer the following questions (in complete sentences):
 
-#. Was linear search ever faster than binary search? When?
-#. If both searches report the time as 0 milliseconds for an instance, do they take the same amount of time? Why or why not?
-#. Which was the faster search overall?
+1. Was linear search ever faster than binary search? When?
+2. If both searches report the time as 0 milliseconds for an instance, do they take the same amount of time? Why or why not?
+3. Which was the faster search overall?
 
 ## Submit
 You will submit both printed and online materials. Double-check that you submitted the entire packet:
-#. Print Search.java. Make the title of the page your name.
-#. Print SearchTest.java. Make the title of the page your name.
-#. Print your table of running times for each search.
-#. Print your analysis that answers the qustions.
-#. Make a .zip of your DataStructuresAndAlgorithms project and submit via the Classes system.
+1. Print Search.java. Make the title of the page your name.
+2. Print SearchTest.java. Make the title of the page your name.
+3. Print your table of running times for each search.
+4. Print your analysis that answers the qustions.
+5. Make a .zip of your DataStructuresAndAlgorithms project and submit via the Classes system.
