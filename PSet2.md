@@ -10,7 +10,7 @@ In `src` folder create a new Java class called `Sort`.
 In `test` folder create a new Java class called `SortTest` and import the necessary JUnit libraries. (See Problem Set 1 for a reminder.)
 
 ## Implement two  sorting algorithms 
-In class, we discussed sorting algorithms. 
+Do the following in Sort.java. 
 
 ### Sort 1
 Choose one sort from the following to implement. (Note: sorting algorithms should work for any data type that can be sorted, including ints, doubles, chars and Strings. For this assignment you can only implement versions that sort integers.)
@@ -24,6 +24,8 @@ Then, look up the sorting algorithm that the Java library Arrays.sort() uses and
 
 
 ## Implement test cases
+Do the following in SortTest.java.
+
 For each of the sorting algorithms you implemented in `Sort`, write several test cases in `SortTest` to calculate how long each algorithm takes to sort the following lists:
 ```
 a list of 1000 identical numbers
