@@ -23,7 +23,7 @@ Choose one sort from the following to implement. (Note: sorting algorithms shoul
 Then, look up the sorting algorithm that the Java library Arrays.sort() uses and implement your own version. (Implement the traditional algorithm, not the dual-pivot version developed by Yaroslavskiy, Bentley, and Bloch.)
 
 
-## Test Cases
+## Implement test cases
 For each of the sorting algorithms you implemented in `Sort`, write several test cases in `SortTest` to calculate how long each algorithm takes to sort the following lists:
 ```
 a list of 1000 identical numbers
@@ -40,7 +40,7 @@ a list of 9,900 numbers in increasing order, followed by 100 numbers in decreasi
 
 Run each test 10 times and make a table with your average as well as the standard deviation for each algorithm. 
 
-## Analysis 
+## Written Analysis 
 Using the table you created, answer the following questions:
 
 1. Which sort worked best on data in constant or increasing order (ie already sorted data)? Did the same sort do well on the case of mostly sorted data?
