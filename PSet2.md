@@ -12,13 +12,14 @@ In `test` folder create a new Java class called `SortTest` and import the necess
 ## Implement two  sorting algorithms 
 In class, we discussed sorting algorithms. 
 
+### Sort 1
 Choose one sort from the following to implement. (Note: sorting algorithms should work for any data type that can be sorted, including ints, doubles, chars and Strings. For this assignment you can only implement versions that sort integers.)
 
 * insertion sort
 * selection sort
 * bubble sort
 
-
+### Sort 2
 Then, look up the sorting algorithm that the Java library Arrays.sort() uses and implement your own version. (Implement the traditional algorithm, not the dual-pivot version developed by Yaroslavskiy, Bentley, and Bloch.)
 
 
