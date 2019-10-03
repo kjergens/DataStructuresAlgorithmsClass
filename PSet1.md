@@ -60,4 +60,4 @@ You will submit printed and online materials. Double-check that you submitted th
 2. Print SearchTest.java. Make the title of the page your name.
 3. Print your table of running times.
 4. Print your analysis answers.
-5. Make a .zip of your DataStructuresAndAlgorithms project and submit via the Classes system.
+5. Make a .zip of your DataStructuresAlgorithms project and submit via the Classes system.
