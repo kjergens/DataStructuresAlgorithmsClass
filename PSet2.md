@@ -57,4 +57,4 @@ Double-check that you submitted the entire packet:
 1. ProblemSet2.java
 2. ProblemSet2Test.java
 3. A table of running times. (Save as a .pdf and attach. Do not share a Google Doc).
-4. Print your analysis answers. (Save as a .pdf and attach. Do not share a Google Doc).
+4. Written analysis. (Save as a .pdf and attach. Do not share a Google Doc).
