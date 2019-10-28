@@ -16,7 +16,7 @@ Do the following in Sort.java.
 Choose one sort from the following to implement. (Note: For this assignment you can assume you are sorting an array of integers.)
 
 * bubble sort
-* merge sort
+* radix sort
 * shell sort
 
 ### Part 2
