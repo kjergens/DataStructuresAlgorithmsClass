@@ -14,9 +14,9 @@ In test folder create a new Java class called ArrayListTest and import the neces
 In ArrayList, design an object that behaves like an ArrayList. You can make it an array of ints. (Advanced: make it generic enough hold any Object - String, Integer, Double, etc.)
 
 1. Add attributes. Make all your attributes **private**. There should be:
-- an array
-- the last active index
-- the chunk size
+  * an array
+  * the last active index
+  * the chunk size
 
 2. Add a constructor.
 
