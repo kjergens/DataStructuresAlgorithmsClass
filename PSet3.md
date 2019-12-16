@@ -21,7 +21,7 @@ Make all your attributes **private**. There should be:
 Add these public behaviors:
 - append - adds a new element to the ArrayList. (Note: if the array attribute is full, make a new array that adds another "chunk" of space.)
 - get - returns the element at the given index.
-- getCapacity - returns how big the ArrayList currently is.
+- getCapacity - returns how many spaces are available in the array attribute.
 - insert - inserts an element at the given index. (Same note as for append.)
 - remove - removes the element at the given index.
 - set - sets the element at the given index to the given value.
