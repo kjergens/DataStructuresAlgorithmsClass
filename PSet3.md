@@ -16,31 +16,35 @@ In ArrayList, design an object that behaves like an ArrayList. You can make it a
 Make all your attributes **private**. There should be:
 - an array
 - the last active index
-- the chunk size.
+- the chunk size
 
-Add these behaviors:
-- append - adds a new element to the ArrayList.
+Add these public behaviors:
+- append - adds a new element to the ArrayList. (Note: if the array attribute is full, make a new array that adds another "chunk" of space.)
 - get - returns the element at the given index.
-- insert - inserts an element at the given index.
+- getCapacity - returns how big the ArrayList currently is.
+- insert - inserts an element at the given index. (Same note as for append.)
 - remove - removes the element at the given index.
+- set - sets the element at the given index to the given value.
 - size - returns an int that is the size of the ArrayList
 
 ## Part 2: Implement test cases
-Do the following in ProblemSet3Test.java.
+Do the following in ArrayListTest.java.
 
-For each of the behaviors you implemented in ArrayList, write several test cases in ArrayListTest.
-
-## Part 3: Written Analysis
-Using the table you created, answer the following questions:
-
-1. Which sort worked best on data in constant or increasing order (i.e. already sorted data)? Did the same sort do well on the case of mostly unsorted data?
-2. In general, did the ordering of the incoming data affect the performance of the sorting algorithms? Use the data from your table to support your answer.
-3. Which sort did best on the shorter (ie n=1000) data sets? Did the same one do better on the longer (ie n=10,000) data sets?
-In general, did the sort from Part 1a or Part 1b do better? Give a hypothesis as to why the difference in performance exists.
+For each of the behaviors you implemented in ArrayList, write several test cases in ArrayListTest. Include at least the following:
+- append
+- get
+- getCapacity
+- insertBeginning
+- insertMiddle
+- insertEnd
+- removeBeginning
+- removeMiddle
+- removeEnd
+- set
+- size
 
 ## Submission Packet
 Double-check that you submitted the entire packet:
 
 1. ArrayList.java
 2. ArrayListTest.java
-3. Written analysis. (Save as a .pdf and attach. Do not share a Google Doc).
