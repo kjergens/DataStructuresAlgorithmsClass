@@ -19,7 +19,7 @@ Make all your attributes **private**. There should be:
 - the chunk size
 
 Add these public behaviors:
-- append - adds a new element to the ArrayList. (Note: if the array attribute is full, make a new array that adds another "chunk" of space.)
+- append - adds a new element to the ArrayList. (Hint: if the array is full make a new array that adds another "chunk" of space.)
 - get - returns the element at the given index.
 - getCapacity - returns how many spaces are available in the array attribute.
 - insert - inserts an element at the given index. (Same note as for append.)
