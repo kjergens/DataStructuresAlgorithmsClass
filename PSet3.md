@@ -17,17 +17,15 @@ In ArrayList, design an object that behaves like an ArrayList. You can make it a
   * an array
   * the last active index
   * the chunk size
-
-2. Add a constructor.
-
-3. Add these public behaviors:
-- **append** - adds a new element to the ArrayList. (Hint: if the array is full make a new array that adds another "chunk" of space.)
-- **get** - returns the element at the given index.
-- **getCapacity** - returns how many spaces are available in the array attribute.
-- **insert** - inserts an element at the given index. (Same note as for append.)
-- **remove** - removes the element at the given index.
-- **set** - sets the element at the given index to the given value.
-- **size** - returns an int that is the size of the ArrayList
+1. Add a constructor.
+1. Add these public behaviors:
+ - **append** - adds a new element to the ArrayList. (Hint: if the array is full make a new array that adds another "chunk" of space.)
+ - **get** - returns the element at the given index.
+ - **getCapacity** - returns how many spaces are available in the array attribute.
+ - **insert** - inserts an element at the given index. (Same note as for append.)
+ - **remove** - removes the element at the given index.
+ - **set** - sets the element at the given index to the given value.
+ - **size** - returns an int that is the size of the ArrayList
 
 ## Part 2: Implement test cases
 Do the following in ArrayListTest.java.
